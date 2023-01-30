@@ -13,10 +13,6 @@ import androidx.room.Room;
 
 import edu.uncc.inclass12.databinding.FragmentAddCourseBinding;
 
-/*
-Name: Juhi Jadhav, Saifuddin Mohammed
-
- */
 
 public class AddCourseFragment extends Fragment {
 
